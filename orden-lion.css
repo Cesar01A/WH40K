@@ -1,0 +1,32 @@
+.lionimg{
+  width: 500px;
+  height: 600px;
+  border: 10px solid rgb(94, 94, 94);
+  position: absolute;
+  top: 10%;
+  left: 55%;  
+  font-family:'Pathway Gothic One', sans-serif;;
+}
+
+.content{
+  text-align: right;
+ }
+ .format{
+  padding: 8px;
+  margin-left:15px;
+  font-family: 'League Gothic', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-size: 110%;
+width: 620px;
+height: 750px;
+border: 10px double;
+background-color: cornsilk;
+
+ }
+ .title{
+  font-family: 'League Gothic', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-size: 150%;
+ }

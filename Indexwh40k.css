@@ -1,0 +1,55 @@
+.astarte-fondo{
+  background-size: center;
+width: 810px;
+height: 810px;
+
+}
+.sm1{
+ width: 1235px;
+ height: 700px;
+ border: 10px solid rgb(94, 94, 94);
+ 
+}
+
+.title1{
+  text-align: center;
+  font-display: flex;
+  font-size: 450%;
+}
+
+.p1r{
+  width: 700px;
+  width: 400px;
+  
+}
+.p2r{
+  width: 700px;
+  width: 400px;
+
+}
+.parraf-right{
+  text-align: right;
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+  align-items: end;
+  font-size: 110%;
+
+}
+.lista1{
+  width: 100px;
+  height: 900px;
+  position: absolute;
+  top: 70;
+  font-size: 110%;
+  p:hover
+    color: red;
+
+}
+.sm2{
+  margin-left: 130px;
+  font-size: 400%;
+  position: absolute;
+  top:950;
+}
+
